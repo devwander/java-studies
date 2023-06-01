@@ -28,3 +28,9 @@ hs_err_pid*
 replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/java
+/cursoEmVideo/cursoJava/OlaMundoSwing/nbproject/private/
+/cursoEmVideo/cursoJava/OlaMundoSwing/build/
+/cursoEmVideo/cursoJava/OlaMundoJavaFX/nbproject/private/
+/cursoEmVideo/cursoJava/OlaMundoJavaFX/build/
+/cursoEmVideo/cursoJava/OlaMundoJavaFX/dist/
+/cursoEmVideo/cursoJava/OlaMundoSwing/dist/
